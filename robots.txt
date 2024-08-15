@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousuresc.github.io/sitemap.html.gz
+Sitemap: https://ousuresc.github.io/app/sitemap.html.gz
+Sitemap: https://ousuresc.github.io/assets/sitemap.html.gz
+Sitemap: https://ousuresc.github.io/css/sitemap.html.gz
+Sitemap: https://ousuresc.github.io/includes/sitemap.html.gz
+Sitemap: https://ousuresc.github.io/item/sitemap.html.gz
+Sitemap: https://ousuresc.github.io/src/sitemap.html.gz
